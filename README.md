@@ -18,6 +18,7 @@ So annual savings scale linearly:
 
 These are the maximum annual budgets you can justify for the loop system (including any servers, licenses, engineering time allocated to it, etc.) while still breaking even on energy cost alone. 
 
+
 ## Break‑even budgets for the loop system
 
 Treating “break‑even” as:  
